@@ -19,8 +19,8 @@
 *.cache
 *.idb
 Makefile-Release.mk
-
-
+*.VC.VC.opendb
+*.VC.db
 *.log
 
 *.ipch
@@ -31,3 +31,4 @@ Debug/*
 */*/Debug/*
 */Debug/*
 */content/*
+*.vcxproj
