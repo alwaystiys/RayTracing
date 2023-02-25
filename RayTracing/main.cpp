@@ -252,7 +252,7 @@ int main() {
     //rayTracingVer2();
     //rayTracingVer3();
 	//rayTracingVer4();
-	//rayTracingVer5();
-	rayTracingVer6();
+	rayTracingVer5();
+	//rayTracingVer6();
     return 0;
 }
